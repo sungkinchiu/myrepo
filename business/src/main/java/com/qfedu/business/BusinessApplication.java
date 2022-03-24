@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-///2222
+///22229999999
 @EnableEurekaClient
 public class BusinessApplication {
 

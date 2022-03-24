@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @EnableEurekaClient
-//222222iiiiiiiiiii
+
 public class BusinessApplication {
 
     public static void main(String[] args) {

@@ -9,13 +9,16 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 
+// 表示启用 Eureka 客户端
+//llllkkkkkkkkkk333333
+/**
+ * xin
+ */
 @EnableEurekaClient
 public class BusinessApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BusinessApplication.class, args);
-
-
     }
 
     @Bean

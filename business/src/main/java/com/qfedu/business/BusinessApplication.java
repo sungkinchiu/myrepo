@@ -9,9 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 // 表示启用 Eureka 客户端
-/**
- * 我提交了了！！！！！！！！！！！sssssss
- */
+//llll
 @EnableEurekaClient
 public class BusinessApplication {
 

@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 // 表示启用 Eureka 客户端
-//llllkkkkkkkkkk
+//llllkkkkkkkkkk333333
 /**
  * xin
  */
